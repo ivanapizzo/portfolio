@@ -1,0 +1,9 @@
+Este es el mapa de mi landing page 
+-----------------------------------------
+Nombre y título profesional
+Mi foto o avatar
+Breve texto sobre mi
+Tecnologias que puedo manejar
+Contacto
+Próximamente proyectos destacados.
+Tambien una sección para descargar mi currículum
